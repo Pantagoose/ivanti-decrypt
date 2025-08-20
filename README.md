@@ -1,6 +1,8 @@
 # About ivanti-decrypt
 Disk image decryptor for both Ivanti and Pulse Secure Appliances. 
-This tool is used as part of the main decryption process mentioned in this blog: https://pantagoose.hashnode.dev/pulse-secure-ivanti-vpn-kernel-decryption-for-investigation.
+This tool is used as part of the main decryption process mentioned in the following blogs: 
+1. [Pulse Secure (Ivanti) VPN: Kernel Decryption for Investigation](https://pantagoose.hashnode.dev/pulse-secure-ivanti-vpn-kernel-decryption-for-investigation)
+2. [Ivanti VPN: Kernel Decryption for Investigation](https://pantagoose.hashnode.dev/ivanti-vpn-kernel-decryption-for-investigation)
 
 # Building
 You would need to download golang on your system, and build it with the following command:
